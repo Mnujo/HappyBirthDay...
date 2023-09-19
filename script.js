@@ -1,4 +1,4 @@
-var future = new Date('sep 19, 2023 12:00:00').getTime();
+var future = new Date('sep 19, 2023 12:30:00').getTime();
 const timer = document.getElementById('timer');
 const content = document.querySelector('.content');
 
